@@ -1,0 +1,18 @@
+.odd_numbered {
+    background-color: #e395b1;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.font-adjusted {
+    font-size: 24px;
+}
+
+#id_one {
+    color: rgb(46, 41, 206);
+    font-size: 36px;
+}
+
+#id_two {
+    background-color: hsla(122, 62%, 57%, 0.92);
+    font-weight: bold;
+}
