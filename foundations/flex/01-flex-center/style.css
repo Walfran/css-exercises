@@ -6,6 +6,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
+  flex-direction: wrap;
 }
 
 .box {
@@ -14,5 +15,5 @@
   border: 6px solid maroon;
   width: 80px;
   height: 80px;
-  align-content: center;
+  text-align: center;
 }
